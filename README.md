@@ -1,15 +1,10 @@
 <h1 align="center">Hello There 👋 I'm Pierre !</h1>
 <h3>I'm a passionate builder from Toulouse, France.</h3>
 
-🌱 I’m currently learning **[Kubevela](https://kubevela.io/)** and **[ArgoCD](https://argo-cd.readthedocs.io/en/stable/)**, next I'll learn **[Golang Generics](https://go.dev/)** and **[NixOS](https://nixos.org/)** !
-
 ---
 
 💬 Ask me about **Cloud Computing, DevOps, Containers, GitOps, Platform Engineering ...**
 
-<a href="https://github.com/pdemagny" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github" />
-</a>
 <a href="https://twitter.com/pierredemagny" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter" />
 </a>
@@ -21,8 +16,9 @@
 
 🔭 My most recent humble open-source contributions:
 
+- Small [feature PR](https://github.com/kestra-io/helm-charts/pull/30) on [Kestra](https://kestra.io/)'s Helm chart repository.
 - Contributor of support for more ACK Controllers on [aws-ia/terraform-aws-eks-ack-addons](https://github.com/aws-ia/terraform-aws-eks-ack-addons).
-- Creator of 3 plugins for the [asdf-vm version manager](https://asdf-vm.com/): [asdf-vela](https://github.com/pdemagny/asdf-vela), [asdf-velad](https://github.com/pdemagny/asdf-velad), [asdf-liqoctl](https://github.com/pdemagny/asdf-liqoctl).
+- Creator of 8 plugins for [asdf](https://asdf-vm.com/): [asdf-vela](https://github.com/pdemagny/asdf-vela), [asdf-velad](https://github.com/pdemagny/asdf-velad), [asdf-liqoctl](https://github.com/pdemagny/asdf-liqoctl), [asdf-serverless](https://github.com/pdemagny/asdf-serverless), [asdf-air](https://github.com/pdemagny/asdf-air), [asdf-teller](https://github.com/pdemagny/asdf-teller), [asdf-vale](https://github.com/pdemagny/asdf-vale), [asdf-changie](https://github.com/pdemagny/asdf-changie).
 - Documentation changes on how to install [kubevela](https://github.com/kubevela/kubevela.io) and [liqo](https://github.com/liqotech/liqo) CLIs with asdf-vm.
 - Following my talk at [this meetup](https://www.meetup.com/fr-FR/latoulboxducloudnatif/events/289395782/), I started [this workshop](https://github.com/pdemagny/crossplane-ack-meetup) to both learn and teach about GitOps tools such as **[ArgoCD](https://argo-cd.readthedocs.io/en/stable/)**, **[Crossplane](https://www.crossplane.io/)** and **[ACK](https://aws-controllers-k8s.github.io/community/)** running on Amazon EKS, built with [terraform-aws-eks-blueprints](https://github.com/aws-ia/terraform-aws-eks-blueprints) and [terraform-aws-eks-ack-addons](https://github.com/aws-ia/terraform-aws-eks-ack-addons).
 
