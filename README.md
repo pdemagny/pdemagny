@@ -22,8 +22,6 @@
 - Documentation changes on how to install [kubevela](https://github.com/kubevela/kubevela.io) and [liqo](https://github.com/liqotech/liqo) CLIs with asdf-vm.
 - Following my talk at [this meetup](https://www.meetup.com/fr-FR/latoulboxducloudnatif/events/289395782/), I started [this workshop](https://github.com/pdemagny/crossplane-ack-meetup) to both learn and teach about GitOps tools such as **[ArgoCD](https://argo-cd.readthedocs.io/en/stable/)**, **[Crossplane](https://www.crossplane.io/)** and **[ACK](https://aws-controllers-k8s.github.io/community/)** running on Amazon EKS, built with [terraform-aws-eks-blueprints](https://github.com/aws-ia/terraform-aws-eks-blueprints) and [terraform-aws-eks-ack-addons](https://github.com/aws-ia/terraform-aws-eks-ack-addons).
 
-<img src="https://github-readme-stats.vercel.app/api?username=pdemagny&count_private=true&theme=dracula&show_icons=true&locale=en" alt="pdemagny" />
-
 🔭 My older humble open-source contributions:
 
 - [Bitnami's Kafka chart](https://github.com/bitnami/charts/pull/6585)
@@ -75,10 +73,6 @@
 ![Gentoo](https://img.shields.io/badge/Gentoo-%230D597F.svg?style=for-the-badge&logo=gentoo&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
----
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pdemagny&show_icons=true&locale=en&layout=compact&theme=dracula" alt="pdemagny" />
 
 ---
 
