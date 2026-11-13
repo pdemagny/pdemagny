@@ -14,6 +14,10 @@
 
 ---
 
+🛠️ What I'm building:
+
+- **[Metrik](https://github.com/pdemagny/metrik)**: an HTTP health checker for web apps, written in Go. Concurrent probes, JSON health indicators, retries with backoff, a circuit breaker and alerts. It ships with Helm charts and Pulumi stacks for Kubernetes, and signed images built with ko and published to ghcr.io.
+
 🔭 My most recent humble open-source contributions:
 
 - Small [feature PR](https://github.com/kestra-io/helm-charts/pull/30) on [Kestra](https://kestra.io/)'s Helm chart repository.
