@@ -13,6 +13,7 @@
 
 🛠️ What I'm building:
 
+- **[feat-agent](https://github.com/pdemagny/feat-agent)**: a Claude Code workflow that takes a feature idea or a bug report to a reviewed pull request. It interviews you for a brief, then specifies and plans with Spec Kit, reviews the design, implements, reviews the code and opens the PR. Each phase runs in its own subagent on a model sized to the job, and it only stops you at the few gates where the decision is yours.
 - **[Metrik](https://github.com/pdemagny/metrik)**: an HTTP health checker for web apps, written in Go. Concurrent probes, JSON health indicators, retries with backoff, a circuit breaker and alerts. It ships with Helm charts and Pulumi stacks for Kubernetes, and signed images built with ko and published to ghcr.io.
 
 🔭 My most recent humble open-source contributions:
