@@ -1,8 +1,6 @@
 <h1 align="center">Hello There 👋 I'm Pierre !</h1>
 <h3>I'm a passionate builder from Toulouse, France.</h3>
 
----
-
 💬 Ask me about **Cloud Computing, DevOps, Containers, GitOps, Platform Engineering ...**
 
 <a href="https://linkedin.com/in/pdemagny" target="_blank">
