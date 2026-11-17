@@ -30,8 +30,6 @@
 - [Pass cheatsheet for devhints.io](https://github.com/rstacruz/cheatsheets/pull/435)
 - [mattermost/mattermost-docker](https://github.com/mattermost/mattermost-docker/pull/176)
 
-[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
-
 ---
 
 <h3 align="left">Some things, but not all, I've worked with over the years:</h3>
